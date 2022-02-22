@@ -14,7 +14,7 @@ const dataExperiences = [
       title: "Carrossier",
       date: "2017 - 2021",
       location: "Marseille",
-      text: `Préparateur automobile, carrossier, au sein de la garage "RALLY"`,
+      text: `Préparateur automobile, carrossier, au sein du garage "RALLY"`,
       missions: [
         {
           id: 1,
@@ -43,7 +43,7 @@ const dataExperiences = [
         },
         {
           id: 2,
-          title: "Intermediaire en la société et le client(Fedex)",
+          title: "Intermediaire entre la société et le client(Fedex)",
         },
         {
           id: 3,
