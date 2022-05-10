@@ -11,11 +11,13 @@ const Skills = () => {
             <h2 className="h2">Compétences</h2>
             <Skill title="HTML" rating="5"/>
             <Skill title="CSS" rating="4"/>
-            <Skill title="JAVASCRIPT" rating="3"/>
+            <Skill title="JAVASCRIPT" rating="4"/>
             <Skill title="RUBY" rating="3"/>
             <Skill title="RUBY-ON-RAILS" rating="3"/>
-            <Skill title="REACT" rating="3"/>
+            <Skill title="REACTJS" rating="3"/>
+            <Skill title="NEXTJS" rating="3"/>
             <Skill title="NODE" rating="3"/>
+            <Skill title="ANGULAR" rating="2"/>            
         </div>
         
         <div className="skills">
