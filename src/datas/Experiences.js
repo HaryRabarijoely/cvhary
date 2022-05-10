@@ -1,10 +1,10 @@
 const dataExperiences = [
     {
       id: 1,
-      title: "Développeur Web - Full Stack",
+      title: "Développeur Web",
       date: "2022",
       location: "FRANCE",
-      text: `A la recherche de ma première expérience en tant que dev`,
+      text: `Développeur full-stack Ruby-on-rails, développeur front-end Reactjs, Nextjs, Angular, en Freelance`,
       missions: [
           
       ],

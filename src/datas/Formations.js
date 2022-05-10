@@ -2,7 +2,7 @@ const dataFormations = [
   {
     id: 1,
     title: "Formation Développeur Web",
-    date: "27/09/2021 - 30/03/2022",
+    date: "2021 - 2022",
     location: "Marseille",
   },
   {

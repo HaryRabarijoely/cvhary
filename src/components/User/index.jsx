@@ -10,7 +10,7 @@ import LocationOnIcon from '@mui/icons-material/LocationOn';
 const User = () => {
     return (
         <div className="user">
-            <img src="./images/avatar.jpeg" alt="" className="user__avatar"/>
+            <img src="./images/avatar.jpeg" className="user__avatar" alt="Hary ANDRIANARISOA"/>
             <h1 className="user__name">Hary ANDRIANARISOA</h1>
             <p className="user__profession">Développeur web</p>
             <div className="user__infos">
