@@ -8,11 +8,15 @@ const dataExperiences = [
       missions: [
         {
           id: 1,
-          title: "match&andfeat : site d'entre-aide artiste amateur realisé avec ruby-on-rails (back et front) ",
+          title: "match&andfeat : site d'entre-aide artiste amateur réalisé avec ruby-on-rails (back et front) ",
         },
         {
           id: 2,
-          title: "trottinet : site de comparaison de trottinette éléctrique, back realisé en ruby-on-rails et front realisé en reactjs",
+          title: "trottinet : site de comparaison de trottinette éléctrique, back réalisé en ruby-on-rails et front réalisé en reactjs",
+        },
+        {
+          id: 3,
+          title: "immocoin : le boncoin de l'annonce immobilier réalisé avec nextjs",
         },
         
       ],
