@@ -12,12 +12,14 @@ const Skills = () => {
             <Skill title="HTML" rating="5"/>
             <Skill title="CSS" rating="4"/>
             <Skill title="JAVASCRIPT" rating="4"/>
-            <Skill title="RUBY" rating="3"/>
-            <Skill title="RUBY-ON-RAILS" rating="3"/>
-            <Skill title="REACTJS" rating="3"/>
+            <Skill title="RUBY" rating="4"/>
+            <Skill title="RUBY-ON-RAILS" rating="4"/>
+            <Skill title="REACTJS" rating="4"/>
             <Skill title="NEXTJS" rating="3"/>
-            <Skill title="NODE" rating="3"/>
-            <Skill title="ANGULAR" rating="2"/>            
+            <Skill title="NODEJS" rating="3"/>
+            <Skill title="ANGULAR" rating="2"/>
+            <Skill title="GIT" rating="4"/>
+            <Skill title="POSTGRESQL" rating="3"/>            
         </div>
         
         <div className="skills">
