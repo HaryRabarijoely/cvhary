@@ -10,11 +10,11 @@ import LocationOnIcon from '@mui/icons-material/LocationOn';
 const User = () => {
     return (
         <div className="user">
-            <img src="./images/avatar.jpeg" className="user__avatar" alt="Hary ANDRIANARISOA"/>
+            {/* <img src="./images/photo.jpeg" className="user__avatar" alt="Hary ANDRIANARISOA"/> */}
             <h1 className="user__name">Hary ANDRIANARISOA</h1>
             <p className="user__profession">Développeur web</p>
             <div className="user__infos">
-                <p className="user__info"><HomeIcon /> 20 Traverse de la Dominique 13011 Marseille</p>
+                <p className="user__info"><HomeIcon /> Bd André Malraux, res La Palombiere bat C 13380 Plan de Cuques</p>
                 <p className="user__info">
                     <LocalPhoneIcon /><a href="tel:+666834940"> 06.66.83.49.40</a>
                 </p>

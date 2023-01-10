@@ -16,10 +16,12 @@ const Skills = () => {
             <Skill title="RUBY-ON-RAILS" rating="4"/>
             <Skill title="REACTJS" rating="4"/>
             <Skill title="NEXTJS" rating="3"/>
-            <Skill title="NODEJS" rating="3"/>
-            <Skill title="ANGULAR" rating="2"/>
+            <Skill title="NODEJS" rating="4"/>
+            <Skill title="ANGULAR" rating="3"/>
             <Skill title="GIT" rating="4"/>
-            <Skill title="POSTGRESQL" rating="3"/>            
+            <Skill title="POSTGRESQL" rating="3"/>  
+            <Skill title="MONGODB" rating="3"/> 
+            <Skill title="LINUX" rating="3"/>         
         </div>
         
         <div className="skills">
