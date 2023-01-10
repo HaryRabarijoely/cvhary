@@ -1,6 +1,21 @@
 const dataExperiences = [
     {
       id: 1,
+      title: "Technicien télécom",
+      date: "Octobre-Décembre 2022",
+      location: "FRANCE",
+      text: `Manoeuvre technique en réseaux et télécommunication pour le compte de la société "MANEO" sur le site data center DIGITAL REALTY à Marseille. `,
+      missions: [
+        {
+          id: 1,
+          title: "Dépollution de plusieurs salles de serveur et installation de réseau fibre et ip jusqu'au point de déployement. ",
+        },
+        
+        
+      ],
+    },
+    {
+      id: 1,
       title: "Développeur Web",
       date: "2021-2022",
       location: "FRANCE",
@@ -80,7 +95,7 @@ const dataExperiences = [
       title: "Adminstrateur réseaux",
       date: "2007-2008",
       location: "Madagascar",
-      text: `Technicien en maintenance et réseaux informatique, environnement windows et linux ubuntu chez TWO"`,
+      text: `Technicien en maintenance et réseaux informatique, environnement windows et linux ubuntu.`,
       missions: [
         {
           id: 1,
