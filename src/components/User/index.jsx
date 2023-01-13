@@ -5,6 +5,8 @@ import LocalPhoneIcon from '@mui/icons-material/LocalPhone';
 import EmailIcon from '@mui/icons-material/Email';
 import EventIcon from '@mui/icons-material/Event';
 import LocationOnIcon from '@mui/icons-material/LocationOn';
+import { Cloudcampus } from "../AllSvgs";
+
 
 
 const User = () => {
@@ -12,7 +14,10 @@ const User = () => {
         <div className="user">
             {/* <img src="./images/photo.jpeg" className="user__avatar" alt="Hary ANDRIANARISOA"/> */}
             <h1 className="user__name">Hary ANDRIANARISOA</h1>
-            <p className="user__profession">Développeur web</p>
+            <p className="user__profession">Développeur web en alternance chez</p>
+            <a href="https://cloud-campus.fr/">
+                <Cloudcampus />
+            </a>
             <div className="user__infos">
                 <p className="user__info"><HomeIcon /> Bd André Malraux, res La Palombiere bat C 13380 Plan de Cuques</p>
                 <p className="user__info">
